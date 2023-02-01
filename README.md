@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prieba
+Este proyecto es una prueba de como creae un repositorio y clonarlo desde github a la computadora 
